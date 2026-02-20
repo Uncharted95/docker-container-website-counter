@@ -1,4 +1,4 @@
-Instructions to compile and run the application:
+**Instructions to compile and run the application:**
 
 This application platform uses Python (3:13:11) 
 
