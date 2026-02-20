@@ -7,6 +7,6 @@ By accessing the localhost (Port: 5000:5000) the user can access the website whi
 
 This application platform uses Python (3:13:11). This docker container uses a flask template file, which dynamically fills in the HTML file with data before uploading to the browser. 
 
-Kort refleksion over udfordringer og læring: 
+**Reflection**
 
 
